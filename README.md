@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am an energetic and ambitious Makers Academy graduate, looking for a role where I can consolidate and extend my programming knowledge.
 <!--
 **taran314/taran314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
